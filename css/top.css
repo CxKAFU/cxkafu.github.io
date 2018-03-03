@@ -56,6 +56,18 @@ a:visited{
 	background-color: #0070c0;
 }
 
+.here{
+	background-color: #0070c0;
+}
+
+.progress{
+	background-color: #009999;
+}
+.minecraft{
+	background-color: #ff0066;
+}
+
+
 h1{
 	font-family: serif;
 	font-size: 2em;
